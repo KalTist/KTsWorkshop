@@ -1,4 +1,4 @@
-/**
+/***
  * @file CommonNode.cc
  * @author LauZanMo (LauZanMo@whu.edu.cn)
  * @brief 
